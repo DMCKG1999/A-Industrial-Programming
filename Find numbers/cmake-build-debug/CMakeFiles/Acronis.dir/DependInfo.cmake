@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Acronis/main.cpp" "D:/Acronis/cmake-build-debug/CMakeFiles/Acronis.dir/main.cpp.obj"
+  "D:/A Industrial Programming/Find numbers/main.cpp" "D:/A Industrial Programming/Find numbers/cmake-build-debug/CMakeFiles/Acronis.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

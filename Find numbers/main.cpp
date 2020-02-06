@@ -2,21 +2,21 @@
 #include <vector>
 
 int main() {
-    int M, n;
+    int Vector_size, AbsNum;
 
-    std::cin >> M;
-    std::cin >> n;
+    std::cin >> Vector_size;
+    std::cin >> AbsNum;
 
-    std::vector  <int> V(M);
+    std::vector  <int> V(Vector_size);
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < AbsNum; i++) {
         int s;
         std::cin >> s;
 
         V[s] = 1;
     }
 
-    for (int i = 0; i < M; i++) {
+    for (int i = 0; i < Vector_size; i++) {
         if (V[i] != 1) {
             std::cout << i << ' ';
         }
