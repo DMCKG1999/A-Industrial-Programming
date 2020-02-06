@@ -1,0 +1,3 @@
+D:/Acronis/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Acronis/cmake-build-debug/CMakeFiles/Acronis.dir
+D:/Acronis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
